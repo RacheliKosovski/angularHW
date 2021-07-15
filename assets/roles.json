@@ -1,0 +1,22 @@
+[
+    { 
+        "roleId":1,
+        "discription":"programmer"
+    },
+    { 
+        "roleId":2,
+        "discription":"Hardware worker"
+    },
+    { 
+        "roleId":3,
+        "discription":"QA"
+    },
+    { 
+        "roleId":4,
+        "discription":"Team Leader"
+    },
+    { 
+        "roleId":5,
+        "discription":"manager"
+    }
+]

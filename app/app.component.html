@@ -1,0 +1,5 @@
+<h1>קריאות שרת</h1>
+<button (click)="typeShow = 1" >עובדים</button>
+<button (click)="typeShow = 2">תפקידים</button>
+<app-workers *ngIf="typeShow == 1"></app-workers>
+<app-roles  *ngIf="typeShow == 2"></app-roles>
